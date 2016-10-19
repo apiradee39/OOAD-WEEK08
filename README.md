@@ -1,5 +1,45 @@
 # OOAD-WEEK08
 
+## ส่งการบ้าน ooad week 08 เรื่อง use case 5 ภาพ
+ภาพที่ 1 ฉันเล่นฟุตบอลกับเพื่อน
+
+![](http://www.plantuml.com/plantuml/img/NKyn3i8m3DppYbEdTY13nmweJ31rGGoCGKrAH1gZ91toUs9I2Od9lZlxV1vZKY5jgnF3cc62rNuUe29EysgzQDzEPUiN6ABqKCvrhBMtg3iXNYhZS4HxPOkkGiPL_HeKuiTuIXh1Biy4ClK01hDvd-M_M3U0krQNKaH91PxOvvepOI7PS9Yf5ti2ICbewhcf3cDPBCzz0000)
+
+ภาพที่ 2 สิ่งที่แม่ฉันทำ
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBApS-rKj3LjLFGICxFpyxCIzT44Sj9JSn34Id8ISmhKKXKA2bAJTNaSaZDIm4Q0m00)
+
+
+ภาพที่ 3 ร่างกายของฉัน
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuRBAhLH8oa-fj5BGrRLJq4YjJ2tMH1O4YkMafcE89HRbOeXbf2OMeOlbvfSMfsfoEQJcfG1j0m00)
+
+
+ภาพที่ 4 พนักงานโรงแรม
+
+![](http://www.plantuml.com/plantuml/img/LOzB3i8m44FtEOMNxQ8S80lKEt22KJfje-PJ9HC9XBWxIGL5B3r-jZnZ5afIl5EEPu549BkiWiacDc9ZK7cpOQT47ZkPZHQ-oSCncgt8I4mm9Klqd3vIhr7OeHRFirQDex3KX5dPRB48dWfd1iE0xd1iwEkz-r8zBbTqEpqyXoeqR32kJ7mobJ-GNq23xy9XoeqvHlIj_d_FIuqLgG-_0G00)
+
+ภาพที่ 5 เล่น facebook
+
+![](http://www.plantuml.com/plantuml/img/SoWkIImgAStDuIh9BCb9LGZEp2q0KZP9Tg75gSc9nQas-absCNdbcIKP2lbvgGg9oINvHLnSIcc9oQb9-VdPIWg9nGeQGBMQNDc9bGgwTWeQfI0EbqDgNWhGM000)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Use Case Diagram (ภาษาไทย)
 * บรรยายเรื่อง UML โดย อ.ปานใจ  
 
